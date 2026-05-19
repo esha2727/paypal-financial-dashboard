@@ -18,7 +18,7 @@ A financial analysis dashboard built using real data from PayPal's SEC annual fi
 Google Sheets — charts, dashboards, financial analysis
 
 ## Live dashboard
-[View on Google Sheets](PASTE YOUR SHARE LINK HERE)
+https://docs.google.com/spreadsheets/d/e/2PACX-1vQmd2Xq3hSFVi196OrkUSNHLtFfKmdq9340Xnb9HHdttgIZTG4Hcjc_4_WmexuWxechyGQvCoj0FDtz/pubhtml
 
 ## Data source
 PayPal Holdings Inc. — SEC 10-K Annual Filings 2020–2024
